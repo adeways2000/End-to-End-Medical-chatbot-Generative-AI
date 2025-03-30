@@ -1,11 +1,13 @@
-sentence-transformers==2.2.2
-langchain
+sentence-transformers
+langchain-huggingface>=0.0.2  # New package for HuggingFace integrations
+ipywidgets>=8.0.0            # Fixes tqdm/IProgress warning in Jupyter
 flask
 pypdf
-python-dotenv
-pinecone[grpc]
+pinecone>=3.0.0        # Modern Pinecone SDK (replaces deprecated plugins)
+python-dotenv>=1.0.0          # For loading .env files
 langchain-pinecone
 langchain_community
 langchain_openai
+certifi>=2024.2.2  # Replace with the latest version if needed
 langchain_experimental
 -e .
