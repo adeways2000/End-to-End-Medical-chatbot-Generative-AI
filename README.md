@@ -1,5 +1,5 @@
 # End-to-end-Medical-Chatbot-Generative-AI
- Mdical Bot AI Architecture
+ # Medical Bot AI Architecture
   
 ![image](https://github.com/user-attachments/assets/1c07cc59-f261-41c3-b29b-f7cdcccdd7e7)
 
