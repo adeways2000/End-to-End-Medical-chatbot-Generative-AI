@@ -1,5 +1,7 @@
 # End-to-end-Medical-Chatbot-Generative-AI
-
+ Mdical Bot AI Architecture
+  
+![image](https://github.com/user-attachments/assets/1c07cc59-f261-41c3-b29b-f7cdcccdd7e7)
 
 # How to run?
 ### STEPS:
@@ -60,6 +62,9 @@ open up localhost:
 
 
 # AWS-CICD-Deployment-with-Github-Actions
+ # CICD Architecture:
+  ![image](https://github.com/user-attachments/assets/74abeba2-a5ad-4c99-8dac-76979fb16166)
+
 
 ## 1. Login to AWS console.
 
